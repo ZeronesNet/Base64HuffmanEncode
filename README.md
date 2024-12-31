@@ -5,7 +5,7 @@ UpdateTime:2024/12/31
 
 上传了新的Base64Encode.c和HuffmanEncode.c
 
-Base64Encode.c  修正了不正确的函数类型 使用了更少的代码实现逻辑 提升了性能
+Base64Encode.c  修正了不正确的函数类型返回 使用了更少的代码实现逻辑 提升了性能
 
 HuffmanEncode.c 修正了对字符数量的错误统计 引入动态内存和分区查找 提升了性能
 ## EncodedText.hfm文件说明
