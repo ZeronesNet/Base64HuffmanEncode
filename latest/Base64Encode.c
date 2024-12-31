@@ -5,7 +5,7 @@
  *          并储存在同目录下的temp.txt文件中
  * @author ZerOnes
  * @date 2024-12-27
- * @version V1.0
+ * @version V2.0
  */
 
 #include<stdio.h>
