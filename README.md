@@ -2,8 +2,11 @@
 程序仅在64位Windows 11 环境下对.jpg .mp4 文件进行过测试
 ## 最新更新说明
 UpdateTime:2024/12/31
+
 上传了新的Base64Encode.c和HuffmanEncode.c
+
 Base64Encode.c  修正了不正确的函数类型 使用了更少的代码实现逻辑 提升了性能
+
 HuffmanEncode.c 修正了对字符数量的错误统计 引入动态内存和分区查找 提升了性能
 ## EncodedText.hfm文件说明
 #### 编码本(1-200字节?)
